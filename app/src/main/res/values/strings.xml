@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Samples Application</string>
+    <string name="user_projects_text">User Projects</string>
+</resources>
